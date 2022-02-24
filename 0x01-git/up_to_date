@@ -1,0 +1,5 @@
+git pull
+touch
+git add .
+git commit
+git push
