@@ -1,5 +1,7 @@
-git pull
+ git pull
+git fetch
 touch
 git add .
 git commit
 git push
+git remote -v
